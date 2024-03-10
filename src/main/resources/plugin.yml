@@ -1,0 +1,4 @@
+name: CustomCraftingRecipeExample
+version: '${version}'
+main: dev.potato.customcraftingrecipes.CustomCraftingRecipeExample
+api-version: '1.20'

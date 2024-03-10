@@ -1,0 +1,4 @@
+name: CustomCraftingRecipes
+version: '1.0'
+main: dev.potato.customcraftingrecipes.CustomCraftingRecipes
+api-version: '1.20'
